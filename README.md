@@ -14,7 +14,7 @@ Software Requirements: : IBM Cloud, Node Red, Watson Assistant, Cloudant Service
 
 ## Video Demonstration 
 <html><body>
-<a href="https://drive.google.com/file/d/1m9DzNNO51MobywQ7OakuSo-ADvqNy0Wv/view?usp=sharing">Click Here To Watch The Video Demonstration</a>
+<a href="https://drive.google.com/file/d/1m9DzNNO51MobywQ7OakuSo-ADvqNy0Wv/view?usp=sharing">Click Here To Watch The Video Demonstration</a><br>
 <img src="Images/" height="300" width="500">
 </body></html>
   

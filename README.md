@@ -24,15 +24,15 @@ The web-app has Node-RED for the User Interface development. The web-app has bee
 
 ## Watson Assistant Skill
 The JSON Code for the skill is available <html><body><a href="Watson Assistant Skill/symptom-checker-bot.json">HERE</a>.<br><br>
-<img src="Images/" height="300" width="500"></body></html>
+<img src="Images/Watson Assistant.png" height="300" width="500"></body></html>
 
 ## Node-RED Flow
 The JSON Code for Node-RED Flow is available <html><body><a href="Node-RED Flow/arceus-flow.json">HERE</a>.<br><br>
-<img src="Images/" height="300" width="500"></body></html>
+<img src="Images/Node-RED Flow.png" height="300" width="500"></body></html>
 
 ## Cloudant DB
 The databases used are available <html><body><a href="Cloudant Databases/">HERE</a>.<br><br>
-<img src="Images/" height="300" width="500"></body></html>
+<img src="Images/Cloudant DB.png" height="300" width="500"></body></html>
 
 ## Applications
 The following can be the Applications:<html><body><br><br>

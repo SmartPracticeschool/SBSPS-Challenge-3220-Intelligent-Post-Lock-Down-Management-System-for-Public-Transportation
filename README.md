@@ -44,7 +44,7 @@ The App comes with an inbuilt symptom checker which can be integrated with other
 ## Conclusion
 The web-app has been built that will cater the needs of customers using public transport and avoid over-occupancy, follow social distancing criteria which will be beneficial in the current pandemic situation. The web-app is available <html><body><a href="https://node-red-arceus.eu-gb.mybluemix.net/ui/">HERE</a></body></html>.
 There still can be more improvements in the model like creating a Mobile App instead of a web-app, and some other features.
-<html><body><img src="Output/web-app.png" height="500" width="700"></body></html>
+<html><body><img src="Output/All-in-One.png" height="500" width="700"></body></html>
 
 ## Future Scope
 The future Scope of this app can be by adding the following to make it more advanced:<html><body><br><br>

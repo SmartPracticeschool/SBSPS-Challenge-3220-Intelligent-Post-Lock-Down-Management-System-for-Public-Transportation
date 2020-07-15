@@ -20,7 +20,7 @@ Software Requirements: : IBM Cloud, Node Red, Watson Assistant, Cloudant Service
   
 ## Flow
 The web-app has Node-RED for the User Interface development. The web-app has been deployed on IBM Cloud. Basic Flow is as follows:
-<html><body><img src="Images/" height="300" width="500"></body></html>
+<html><body><img src="Images/Block Diagram.png" height="300" width="500"></body></html>
 
 ## Watson Assistant Skill
 The JSON Code for the skill is available <html><body><a href="Watson Assistant Skill/symptom-checker-bot.json">HERE</a>.<br><br>

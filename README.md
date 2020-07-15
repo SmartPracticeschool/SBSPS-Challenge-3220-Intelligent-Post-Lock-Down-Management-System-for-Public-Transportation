@@ -31,7 +31,7 @@ The JSON Code for Node-RED Flow is available <html><body><a href="Node-RED Flow/
 <img src="Images/" height="300" width="500"></body></html>
 
 ## Cloudant DB
-The databases used are available <html><body><a href="Cloudant Databases">HERE</a>.<br><br>
+The databases used are available <html><body><a href="Cloudant Databases/">HERE</a>.<br><br>
 <img src="Images/" height="300" width="500"></body></html>
 
 ## Applications
@@ -48,7 +48,7 @@ There still can be more improvements in the model like creating a Mobile App ins
 
 ## Future Scope
 The future Scope of this app can be by adding the following to make it more advanced:<html><body><br><br>
-  ) Check the user temperature with infrared sensors:<br>
+1) Check the user temperature with infrared sensors:<br>
  In the current version of the app a symptom checker is used to identify the scale of risk at which the user is for Covid19. If the user is found out to be at a high risk, he/she will not be able to proceed for ticket booking. This symptom checker is developed using Watson assistant service. However, the con of this is that the user can give wrong answers to bypass the checker and continue with the booking. To avoid such a situation, infrared sensors can be used. These sensors will determine the user temperature and accordingly inform if the user is at a high risk for Corona or not.  <br> 
 
 2) Expanding the database: <br>

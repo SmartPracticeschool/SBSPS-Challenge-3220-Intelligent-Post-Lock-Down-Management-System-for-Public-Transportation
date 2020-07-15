@@ -3,13 +3,13 @@
 The Post-Lockdown, it will be difficult and risky to allow public transportation without any safety measures. There must be a proper mechanism to maintain social distancing and manage the frequency of public transport services. 
 Thus, there is a need for an application that will schedule the timing of transportation, avoid over-occupancy, and maintain social distancing. 
 There is a certain insecurity among people to use public transport nowadays. This app will assist users, assure and make them aware too. 
-The following points will be considered during app development:
-●	Contact-less ticketing options like passes or digital payments
-●	Avoid over-occupancy of transport services
-●	Maintain social distancing by allocating distant seats to users
-●	Safety check whenever the user books a ride
-●	Proper guidelines about sanitation, mask while boarding
-●	Verification of booking at the time of boarding
+The following points will be considered during app development:<br>
+●	Contact-less ticketing options like passes or digital payments<br>
+●	Avoid over-occupancy of transport services<br>
+●	Maintain social distancing by allocating distant seats to users<br>
+●	Safety check whenever the user books a ride<br>
+●	Proper guidelines about sanitation, mask while boarding<br>
+●	Verification of booking at the time of boarding<br>
 Software Requirements: : IBM Cloud, Node Red, Watson Assistant, Cloudant Service
 
 ## Video Demonstration 
